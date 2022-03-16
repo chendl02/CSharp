@@ -24,7 +24,7 @@ namespace shape
         {
             if (!isLegal())
             {
-                Console.WriteLine("形状不合法！");
+                Console.WriteLine("形状不正确！");
             }
             return Side * Side;
         }
@@ -44,7 +44,7 @@ namespace shape
         }
         public double calcuArea()
         {
-            if (!isLegal()) { Console.WriteLine("形状不合法！"); }
+            if (!isLegal()) { Console.WriteLine("形状不正确！"); }
             return System.Math.Sqrt((A + B + C) * (A + B - C) * (A + C - B) * (B + C - A))/4;
         }
         public double Area()
@@ -70,7 +70,7 @@ namespace shape
         {
             if (!isLegal())
             {
-                Console.WriteLine("形状不合法");
+                Console.WriteLine("形状不正确");
             }
             return Length * Width;
         }
@@ -116,7 +116,7 @@ namespace shape
                 Console.WriteLine("this area=" + sp.calcuArea());
                 Console.WriteLine("allArea=" + allArea);
             }
-            Console.WriteLine("十个图形总面积（含不合法图形）为：" + allArea);
+            Console.WriteLine("十个图形总面积（含不正确图形）为：" + allArea);
         }
     }
 }

@@ -1,0 +1,8 @@
+E:\C#\HW3\clock\clock\bin\Debug\clock.exe.config
+E:\C#\HW3\clock\clock\bin\Debug\clock.exe
+E:\C#\HW3\clock\clock\bin\Debug\clock.pdb
+E:\C#\HW3\clock\clock\obj\Debug\clock.csproj.AssemblyReference.cache
+E:\C#\HW3\clock\clock\obj\Debug\clock.csproj.SuggestedBindingRedirects.cache
+E:\C#\HW3\clock\clock\obj\Debug\clock.csproj.CoreCompileInputs.cache
+E:\C#\HW3\clock\clock\obj\Debug\clock.exe
+E:\C#\HW3\clock\clock\obj\Debug\clock.pdb
