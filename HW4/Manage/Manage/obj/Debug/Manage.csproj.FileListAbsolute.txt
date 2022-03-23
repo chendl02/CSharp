@@ -1,0 +1,8 @@
+F:\C#\HW4\Manage\Manage\bin\Debug\Manage.exe.config
+F:\C#\HW4\Manage\Manage\bin\Debug\Manage.exe
+F:\C#\HW4\Manage\Manage\bin\Debug\Manage.pdb
+F:\C#\HW4\Manage\Manage\obj\Debug\Manage.csproj.AssemblyReference.cache
+F:\C#\HW4\Manage\Manage\obj\Debug\Manage.csproj.SuggestedBindingRedirects.cache
+F:\C#\HW4\Manage\Manage\obj\Debug\Manage.csproj.CoreCompileInputs.cache
+F:\C#\HW4\Manage\Manage\obj\Debug\Manage.exe
+F:\C#\HW4\Manage\Manage\obj\Debug\Manage.pdb

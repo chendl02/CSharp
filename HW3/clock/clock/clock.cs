@@ -11,10 +11,12 @@ namespace clock
         DateTime alarmTime = DateTime.Now;
         //委托
         public delegate void AlarmHandler(object sender, DateTime args);
-        public delegate void TickHanlder(object sender, DateTime args);
+
+        //public delegate void TickHanlder(object sender, DateTime args);
         //事件声明
         public event AlarmHandler OnAlarm;
-        public event TickHanlder OnTick;
+        public event AlarmHandler OnTick;
+        //public event TickHanlder OnTick;
 
         public clock()
         {

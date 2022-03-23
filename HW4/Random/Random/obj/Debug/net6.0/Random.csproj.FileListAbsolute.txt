@@ -1,0 +1,15 @@
+F:\C#\HW4\Random\Random\bin\Debug\net6.0\Random.exe
+F:\C#\HW4\Random\Random\bin\Debug\net6.0\Random.deps.json
+F:\C#\HW4\Random\Random\bin\Debug\net6.0\Random.runtimeconfig.json
+F:\C#\HW4\Random\Random\bin\Debug\net6.0\Random.dll
+F:\C#\HW4\Random\Random\bin\Debug\net6.0\Random.pdb
+F:\C#\HW4\Random\Random\obj\Debug\net6.0\Random.csproj.AssemblyReference.cache
+F:\C#\HW4\Random\Random\obj\Debug\net6.0\Random.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HW4\Random\Random\obj\Debug\net6.0\Random.AssemblyInfoInputs.cache
+F:\C#\HW4\Random\Random\obj\Debug\net6.0\Random.AssemblyInfo.cs
+F:\C#\HW4\Random\Random\obj\Debug\net6.0\Random.csproj.CoreCompileInputs.cache
+F:\C#\HW4\Random\Random\obj\Debug\net6.0\Random.dll
+F:\C#\HW4\Random\Random\obj\Debug\net6.0\refint\Random.dll
+F:\C#\HW4\Random\Random\obj\Debug\net6.0\Random.pdb
+F:\C#\HW4\Random\Random\obj\Debug\net6.0\Random.genruntimeconfig.cache
+F:\C#\HW4\Random\Random\obj\Debug\net6.0\ref\Random.dll
