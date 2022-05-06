@@ -1,0 +1,15 @@
+C:\Users\CYY\Desktop\大二下\软件构造基础\作业\h1\bin\Debug\netcoreapp3.1\h1.exe
+C:\Users\CYY\Desktop\大二下\软件构造基础\作业\h1\bin\Debug\netcoreapp3.1\h1.deps.json
+C:\Users\CYY\Desktop\大二下\软件构造基础\作业\h1\bin\Debug\netcoreapp3.1\h1.runtimeconfig.json
+C:\Users\CYY\Desktop\大二下\软件构造基础\作业\h1\bin\Debug\netcoreapp3.1\h1.runtimeconfig.dev.json
+C:\Users\CYY\Desktop\大二下\软件构造基础\作业\h1\bin\Debug\netcoreapp3.1\h1.dll
+C:\Users\CYY\Desktop\大二下\软件构造基础\作业\h1\bin\Debug\netcoreapp3.1\h1.pdb
+C:\Users\CYY\Desktop\大二下\软件构造基础\作业\h1\obj\Debug\netcoreapp3.1\h1.csproj.AssemblyReference.cache
+C:\Users\CYY\Desktop\大二下\软件构造基础\作业\h1\obj\Debug\netcoreapp3.1\h1.Form1.resources
+C:\Users\CYY\Desktop\大二下\软件构造基础\作业\h1\obj\Debug\netcoreapp3.1\h1.csproj.GenerateResource.cache
+C:\Users\CYY\Desktop\大二下\软件构造基础\作业\h1\obj\Debug\netcoreapp3.1\h1.AssemblyInfoInputs.cache
+C:\Users\CYY\Desktop\大二下\软件构造基础\作业\h1\obj\Debug\netcoreapp3.1\h1.AssemblyInfo.cs
+C:\Users\CYY\Desktop\大二下\软件构造基础\作业\h1\obj\Debug\netcoreapp3.1\h1.csproj.CoreCompileInputs.cache
+C:\Users\CYY\Desktop\大二下\软件构造基础\作业\h1\obj\Debug\netcoreapp3.1\h1.dll
+C:\Users\CYY\Desktop\大二下\软件构造基础\作业\h1\obj\Debug\netcoreapp3.1\h1.pdb
+C:\Users\CYY\Desktop\大二下\软件构造基础\作业\h1\obj\Debug\netcoreapp3.1\h1.genruntimeconfig.cache
